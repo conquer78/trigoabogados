@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trigoabogados, Herencias y Bienes Raices</title>
+	<atom:link href="https://conquer78.github.io/trigoabogados/feed/" rel="self" type="application/rss+xml" />
+	<link>https://conquer78.github.io/trigoabogados</link>
+	<description>Estudio de Abogados Expertos en Derecho Hereditario, Bienes raices y Corretaje de Propiedades</description>
+	<lastBuildDate>Thu, 26 May 2022 14:35:18 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://conquer78.github.io/trigoabogados/wp-content/uploads/trigoabogadosfavicon_herencias_posesiones_efectivas_bienes_raices_32x32.png</url>
+	<title>Trigoabogados, Herencias y Bienes Raices</title>
+	<link>https://conquer78.github.io/trigoabogados</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
